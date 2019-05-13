@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Making a list that makes sense</title>
+	</head>
+	<body>
+		<h1>Importance of list order</h1>
+		<table>
+			<thead>
+				<tr>
+					<th>Most important task</th>
+					<th>Second most important task</th>
+					<th>Third most important task</th>
+					<th>Fourth most important task</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Process live checks for payroll</td>
+					<td>Process 48 hour turnaround orders</td>
+					<td>Set up monthly safety meeting</td>
+					<td>RSVP for the company picnic</td>
+				</tr>
+			</tbody>
+		</table>
+		<h1>Safety list that do not need to be in order</h1>
+		<ul>
+			<li>Adjust my chair</li>
+			<li>Adjust my desk height</li>
+			<li>Stretch when needed</li>
+			<li>Look away from the screen</li>
+		</ul>
+	</body>
+</html>
